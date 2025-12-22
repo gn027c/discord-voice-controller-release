@@ -1,6 +1,6 @@
 # Discord Voice Controller
 
-Discord Voice Controller là công cụ chuyên dụng để quản lý và điều khiển nhiều tài khoản Discord (Self-bot) tham gia các kênh thoại cùng một lúc. Công cụ được thiết kế với giao diện trực quan, ổn định cho việc điều phối số lượng lớn tài khoản một cách nhanh chóng và ổn định.
+Discord Voice Controller là công cụ chuyên dụng để quản lý và điều khiển nhiều tài khoản Discord (Self-bot) tham gia các kênh thoại cùng một lúc. Công cụ được thiết kế với giao diện trực quan, ổn định cho việc điều phối số lượng lớn tài khoản một cách nhanh chóng.
 
 ## Tính năng chính
 
