@@ -1,6 +1,6 @@
 # Discord Voice Controller
 
-Discord Voice Controller là công cụ chuyên dụng để quản lý và điều khiển nhiều tài khoản Discord (Self-bot) tham gia các kênh thoại cùng một lúc. Công cụ được thiết kế với giao diện trực quan, tối ưu cho việc điều phối số lượng lớn tài khoản một cách nhanh chóng và ổn định.
+Discord Voice Controller là công cụ chuyên dụng để quản lý và điều khiển nhiều tài khoản Discord (Self-bot) tham gia các kênh thoại cùng một lúc. Công cụ được thiết kế với giao diện trực quan, ổn định cho việc điều phối số lượng lớn tài khoản một cách nhanh chóng và ổn định.
 
 ## Tính năng chính
 
@@ -17,9 +17,9 @@ Discord Voice Controller là công cụ chuyên dụng để quản lý và đi�
 - Hiệu ứng hình ảnh nâng cao: Hỗ trợ bật Camera (Video) và Phát trực tiếp (Stream) đồng loạt cho các tài khoản.
 - Cơ chế ổn định: Tự động cập nhật lại trạng thái Voice khi có người dùng mới tham gia kênh để đảm bảo luồng Stream/Camera luôn hiển thị ổn định.
 
-### 3. Xoay vòng trạng thái kênh thoại (Status Rotation)
+### 3. Thay đổi trạng thái kênh thoại (Status Rotation)
 
-- Tính năng đặt trạng thái văn bản (Voice Status) cho kênh thoại.
+- Tính năng đặt trạng thái văn bản (Voice Status), có thể sử dụng cả emoji cho kênh thoại.
 - Cơ chế tự động xoay vòng: Thay đổi liên tục các dòng trạng thái theo danh sách đã thiết lập với thời gian chờ tùy chỉnh, giúp kênh thoại trở nên sinh động hơn.
 
 ### 4. Quản lý Hồ sơ và Server
